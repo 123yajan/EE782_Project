@@ -91,7 +91,7 @@ The core mechanism of PatchCPT is illustrated below. The blue spikes represent t
 
 Instead of averaging all past data (red dashed line), the model sparsely selects specific historical moments that match the current market regime.
 
-![Attention Weights](attention_weights.png)
+![Attention Weights](attn_img.jpg)
 *(Ensure you upload your 'image_2da31e.png' as 'attention_weights.png')*
 
 -----
