@@ -18,7 +18,6 @@ PatchCPT replaces the standard "black-box" forecasting approach with a two-stage
 2.  **Uncertainty Module:** A **Modern Hopfield Network (MHN)** uses the latent vector $z_t$ to query a memory bank of past errors. It retrieves "similar past regimes" (e.g., previous market crashes or stable periods) to construct a dynamically weighted prediction interval.
 
 ![PatchCPT Architecture](Patch_CPT.png)
-*(Note: Ensure you upload your 'Patch_CPT.png' architecture diagram to the repo)*
 
 -----
 
